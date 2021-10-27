@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cmykRadio/static/css/main.89fddf53.chunk.css",
+    "main.js": "/cmykRadio/static/js/main.ac3bed44.chunk.js",
+    "main.js.map": "/cmykRadio/static/js/main.ac3bed44.chunk.js.map",
+    "runtime-main.js": "/cmykRadio/static/js/runtime-main.f682f4bd.js",
+    "runtime-main.js.map": "/cmykRadio/static/js/runtime-main.f682f4bd.js.map",
+    "static/css/2.0fab5905.chunk.css": "/cmykRadio/static/css/2.0fab5905.chunk.css",
+    "static/js/2.857e7a29.chunk.js": "/cmykRadio/static/js/2.857e7a29.chunk.js",
+    "static/js/2.857e7a29.chunk.js.map": "/cmykRadio/static/js/2.857e7a29.chunk.js.map",
+    "index.html": "/cmykRadio/index.html",
+    "static/css/2.0fab5905.chunk.css.map": "/cmykRadio/static/css/2.0fab5905.chunk.css.map",
+    "static/css/main.89fddf53.chunk.css.map": "/cmykRadio/static/css/main.89fddf53.chunk.css.map",
+    "static/js/2.857e7a29.chunk.js.LICENSE.txt": "/cmykRadio/static/js/2.857e7a29.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/cmykRadio/static/media/volume-up-fill.d77a191f.svg",
+    "static/media/sound.0ae9a5ac.gif": "/cmykRadio/static/media/sound.0ae9a5ac.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f682f4bd.js",
+    "static/css/2.0fab5905.chunk.css",
+    "static/js/2.857e7a29.chunk.js",
+    "static/css/main.89fddf53.chunk.css",
+    "static/js/main.ac3bed44.chunk.js"
+  ]
+}
