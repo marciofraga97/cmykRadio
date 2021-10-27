@@ -1,6 +1,6 @@
 # cmykRadio
 
-This is my first project creating a web radio player using **ReactJS**. The only thing I need to do is just activating a JSON-server locally to read the database.
+This is my first project creating a web radio player using **ReactJS**. The only thing I need to do is just activating a JSON-server locally to read the database. :(
 
 You can preview my project below:
 
