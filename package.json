@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "engines": {
     "node": "14.17.4"
-  }
+  },
   "private": true,
   "homepage": "https://marciofraga97.github.io/cmykRadio",
   "dependencies": {
